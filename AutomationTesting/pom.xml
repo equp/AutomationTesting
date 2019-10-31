@@ -35,7 +35,7 @@
         <maven.javadoc.version>3.0.1</maven.javadoc.version>
         <maven.resources.version>2.7</maven.resources.version>
         <allure.maven.version>2.9</allure.maven.version>
-        <pdfbox.version>2.0.12</pdfbox.version>
+        <pdfbox.version>2.0.17</pdfbox.version>
         <pdfbox.jempbox>1.8.16</pdfbox.jempbox>
         <eyes.selenium>3.141.2</eyes.selenium>
         <allure.jvm.adapter>1.6.4</allure.jvm.adapter>
