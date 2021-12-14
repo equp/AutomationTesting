@@ -28,7 +28,7 @@
         <junit.version>4.12</junit.version>
         <allure.version>2.8.1</allure.version>
         <selenium.version>3.14.0</selenium.version>
-        <log4j.version>2.11.1</log4j.version>
+        <log4j.version>2.16.0</log4j.version>
         <slf4j.version>1.7.25</slf4j.version>
         <maven.surefire.version>2.20</maven.surefire.version>
         <aspectjweaver.version>1.8.10</aspectjweaver.version>
